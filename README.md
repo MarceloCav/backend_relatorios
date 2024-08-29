@@ -1,5 +1,4 @@
-# Documentação do Projeto de Teste Técnico
-
+# Documentação do Projeto
 ## Visão Geral
 
 Este projeto foi desenvolvido como parte de um teste técnico e consiste em duas aplicações em Python, utilizando o framework Django. O objetivo é criar um serviço contínuo para recepção de dados e geração de relatórios meteorológicos.
@@ -42,6 +41,3 @@ O envio de e-mails é configurado utilizando o SMTP do Gmail. Após a geração 
 
 Este projeto demonstra a capacidade de desenvolver aplicações em Python utilizando Django, além de integrar serviços de rede e manipulação de dados. A implementação foi realizada de forma modular e escalável, permitindo futuras expansões e melhorias.
 
-## Licença
-
-Este projeto é para uso pessoal e não deve ser utilizado para fins comerciais sem a devida autorização.
